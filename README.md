@@ -1,4 +1,4 @@
-# 🃏 ACE-card
+# 🃏 ACE-card 카꾸
 #### ACE card 꾸미기 
 <img src="https://github.com/user-attachments/assets/b5757944-6f6a-41c8-9558-e6aefde13a3b" width="290" height="330"/>
 <img src="https://github.com/user-attachments/assets/5e5d1a2d-d3f2-473f-9f49-0534ad797d44" width="290" height="330"/>
