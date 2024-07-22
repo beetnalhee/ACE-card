@@ -2,7 +2,7 @@
 #### ACE card 꾸미기 (a.k.a 카꾸)
 <img src="https://github.com/user-attachments/assets/b5757944-6f6a-41c8-9558-e6aefde13a3b" width="290" height="320"/>
 <img src="https://github.com/user-attachments/assets/5e5d1a2d-d3f2-473f-9f49-0534ad797d44" width="290" height="320"/>
-<img src="https://github.com/user-attachments/assets/e836d835-4a96-481d-973e-7128b5b14efab" width="290" height="330"/>
+<img src="https://github.com/user-attachments/assets/e836d835-4a96-481d-973e-7128b5b14efab" width="290" height="320"/>
 
 ## ✨ 핵심기능 소개
 * 카드에 마우스를 올렸을 때 빛이 반사되는것처럼 보이는 스타일을 적용해보았습니다. </br>
